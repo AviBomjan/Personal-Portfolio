@@ -1,0 +1,188 @@
+[
+
+
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwindcss.png"
+  },
+
+
+  {
+    "title": "WordPress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "AEM",
+    "imageSrc": "skills/aem.png"
+  },
+
+
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "NoSql",
+    "imageSrc": "skills/nosql.png"
+  },
+  {
+    "title": "PostgreSql",
+    "imageSrc": "skills/postgresql.png"
+  },
+  
+
+  {
+    "title": "SSMS",
+    "imageSrc": "skills/ssms.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+
+
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "jQuery",
+    "imageSrc": "skills/jquery.png"
+  },
+  {
+    "title": "NextJs",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "VueJs",
+    "imageSrc": "skills/vuejs.png"
+  },
+  {
+    "title": "AngularJs",
+    "imageSrc": "skills/angularjs.png"
+  },
+  {
+    "title": "NodeJs",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+
+
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "RestApi",
+    "imageSrc": "skills/restapi.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+
+
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": ".Net",
+    "imageSrc": "skills/dotnet.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Php",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
+    "title": "Ruby",
+    "imageSrc": "skills/ruby.png"
+  },
+
+
+  {
+    "title": "Android",
+    "imageSrc": "skills/android.png"
+  },
+  {
+    "title": "Swift",
+    "imageSrc": "skills/swift.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+
+
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Salesforce",
+    "imageSrc": "skills/salesforce.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
+  },
+  {
+    "title": "Unity",
+    "imageSrc": "skills/unity.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  } 
+]

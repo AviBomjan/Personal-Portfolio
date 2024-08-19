@@ -1,0 +1,137 @@
+[
+
+
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+
+
+  {
+    "title": "WordPress",
+    "imageSrc": "skills/wordpress.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+
+
+
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+
+  
+
+  {
+    "title": "SSMS",
+    "imageSrc": "skills/ssms.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+
+
+
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "NodeJs",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "AngularJs",
+    "imageSrc": "skills/angularjs.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+
+
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "RestApi",
+    "imageSrc": "skills/restapi.png"
+  },
+
+
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": ".Net",
+    "imageSrc": "skills/dotnet.png"
+  },
+
+  {
+    "title": "Php",
+    "imageSrc": "skills/php.png"
+  },
+
+
+  {
+    "title": "Android",
+    "imageSrc": "skills/android.png"
+  },
+  {
+    "title": "Swift",
+    "imageSrc": "skills/swift.png"
+  },
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+
+
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Salesforce",
+    "imageSrc": "skills/salesforce.png"
+  },
+
+  {
+    "title": "Git",
+    "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/linux.png"
+  } 
+]

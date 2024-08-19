@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio_website.png",
+    "description": "This is a portfolio website to showcase me.",
+    "skills": ["JavaScript", "React", "UI & UX"],
+    "demo": "https://www.avibomjan.com/",
+    "source": ""
+  },
+  {
+    "title": "Bahnow",
+    "imageSrc": "projects/bahnow.png",
+    "description": "This is a company website for a fitness platform.",
+    "skills": ["WordPress", "UI & UX"],
+    "demo": "https://bahnow.com/",
+    "source": ""
+  },
+  {
+    "title": "Blue Note",
+    "imageSrc": "projects/blue_note.png",
+    "description": "This is a company website for a travel website.",
+    "skills": ["WordPress", "UI & UX"],
+    "demo": "https://www.blue-note.me/",
+    "source": ""
+  },
+  {
+    "title": "Github",
+    "imageSrc": "projects/github.png",
+    "description": "Here are a collection of personal projects, I have worked on.",
+    "skills": ["Various Programming Languages & Skills"],
+    "demo": "https://github.com/AviBomjan",
+    "source": ""
+  }
+]

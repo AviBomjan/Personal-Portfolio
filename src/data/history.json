@@ -1,0 +1,48 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Blue Note",
+    "startDate": "Mar, 2023",
+    "endDate": "Jun, 2024",
+    "experiences": ["Collaborating with founders, designers, and other developers to build, test, and deploy website.", 
+    "Mentoring and providing guidance to junior developers."],
+    "achievement": ["Worked from conception to production stage", 
+    "Launched the website live"],
+    "imageSrc": "history/blue_note.png"
+  },
+  {
+    "role": "Programmer",
+    "organisation": "ESRI China (Hong Kong)",
+    "startDate": "Aug, 2022",
+    "endDate": "Feb, 2023",
+    "experiences": ["Conducting analysis, design, programming, and testing in line with the system development life cycle methodology and corporate technology standards.", 
+    "Collaborating within a team and adhered to project timelines in Agile."],
+    "achievement":  ["Worked on government public inqury submission page", 
+    "Designed the admin submission features"],
+    "imageSrc": "history/esri_china_hong_kong.jpeg"
+  },
+  {
+    "role": "Web/App Developer",
+    "organisation": "MUSIC.IO",
+    "startDate": "Apr, 2022",
+    "endDate": "Jul, 2022",
+    "experiences": ["System support during the testing stage, UAT stage, and production runs.",
+      "Regulating and handling digital payment processes."],
+    "achievement": ["Worked on payment system for the app",
+      "Facilitated the app's offical launch"],
+    "imageSrc": "history/muxic_io.jpeg"
+  },
+  {
+    "role": "Junior Web Programmer",
+    "organisation": "Arcotect Limited",
+    "startDate": "Feb, 2021",
+    "endDate": "Dec, 2021",
+    "experiences": [
+      "Adhering to industry-leading website design standards and quality control in every task.",
+      "Collaborating on the development, maintenance, and support of website designs and updates."
+    ],
+    "achievement": ["Worked on automated email system",
+      "Created a database to track repairs"],
+    "imageSrc": "history/arcotect.png"
+  }
+]
